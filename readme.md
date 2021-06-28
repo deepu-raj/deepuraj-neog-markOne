@@ -1,3 +1,3 @@
 # This is the level zero markOne assignment from Deepu Raj
 
-I will be posting the code for the quiz - Do you Know Me?
+You can view the CLI app for the markZero assignment in the the REPL website link.
